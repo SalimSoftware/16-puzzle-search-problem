@@ -74,8 +74,7 @@ This project is **open-source** and free to use. Contributions are welcome! 🚀
 ## 📫 Connect With Us
 💡 **Maria Chmite** – [GitHub](https://github.com/MariaChmite) | [LinkedIn](https://linkedin.com/in/maria-chmite)
 💡 **Salim El Ghersse** – [GitHub](https://github.com/SalimElGhersse)
-💡 **Meriem Lmoubariki** – [GitHub](https://github.com/MeriemLmoubariki)
-💡 **Jad Falaq** – [GitHub](https://github.com/JadFalaq)
+
 
 ---
 
