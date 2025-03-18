@@ -1,3 +1,4 @@
+# Developed by Salim El Ghersse, Maria Chmite, and Mohamed Ouballouk
 import util
 import heapq
 
